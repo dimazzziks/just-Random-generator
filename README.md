@@ -5,4 +5,7 @@
 * App does not serve ads and does not use an external analytics services.
 * App will not use any kind of technology that utilizes your microphone or camera to gather data about you.
 * By using App you consent to the processing of your information as set forth in this Privacy Policy.
-- Contact us: zhbannikov_dima@mail.ru
+
+
+
+Contact us: zhbannikov_dima@mail.ru
